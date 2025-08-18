@@ -46,6 +46,10 @@ h1 {
     font-size: 40px;
 }
 
+h2 {
+    color:white;
+}
+
 p {
     font-size: 20px;
 }
@@ -74,7 +78,6 @@ p {
 }
 
 .categoria-imagens img {
-    opacity: 0.5;
     height: 200px;
 }
 
