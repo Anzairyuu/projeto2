@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(51, 117, 30);
+    border-bottom: solid 2px rgb(148, 212, 129);
     padding: 20px;
     font-size: 32px;
     color: rgb(255, 255, 255);
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(25, 88, 12);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -32,12 +32,14 @@ header {
     width: auto;
 }
 
+
 .chamada-texto {
     margin-right: 5%;
 }
 
 h1 {
     font-size: 40px;
+    font-family: "Chela One", sans-serif;
 }
 
 p {
@@ -63,7 +65,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid rgb(104, 207, 104);
 }
 
 .categoria h2 {
