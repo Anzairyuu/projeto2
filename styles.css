@@ -37,9 +37,12 @@ header {
     margin-right: 5%;
 }
 
+.nome-site{
+    font-family: "Chela One", sans-serif;
+}
+
 h1 {
     font-size: 40px;
-    font-family: "Chela One", sans-serif;
 }
 
 p {
